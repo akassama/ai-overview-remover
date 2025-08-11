@@ -3,7 +3,7 @@
   "name": "AI Overview Blocker",
   "version": "1.0",
   "description": "Automatically removes Google's AI Overview section from search results.",
-  "permissions": ["scripting"],
+  "permissions": ["scripting", "storage"],
   "icons": {
     "16": "images/icon16.png",
     "48": "images/icon48.png",
