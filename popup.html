@@ -1,40 +1,52 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>AI Overview Blocker</title>
-    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.2.0/fonts/remixicon.css" rel="stylesheet">
-    <link href="popup.css" rel="stylesheet">
-</head>
-<body>
+  <head>
+    <title>AI Overview Remover</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/remixicon@4.6.0/fonts/remixicon.css"
+      rel="stylesheet"
+    />
+    <link href="popup.css" rel="stylesheet" />
+  </head>
+  <body>
+    <h2>AI Overview Remover Settings</h2>
 
-<h2>AI Overview Blocker Settings</h2>
+    <div class="option-container">
+      <input type="checkbox" id="hideAiSummary" />
+      <label for="hideAiSummary">Hide AI Summary</label>
+    </div>
+    <div class="option-container">
+      <input type="checkbox" id="hideAiMode" />
+      <label for="hideAiMode">Hide AI Mode</label>
+    </div>
+    <div class="option-container">
+      <input type="checkbox" id="hideSponsored" />
+      <label for="hideSponsored">Hide Sponsored Results</label>
+    </div>
 
-<div class="option-container">
-    <input type="checkbox" id="hideAiSummary">
-    <label for="hideAiSummary">Hide AI Summary</label>
-</div>
-<div class="option-container">
-    <input type="checkbox" id="hideAiMode">
-    <label for="hideAiMode">Hide AI Mode</label>
-</div>
-<div class="option-container">
-    <input type="checkbox" id="hideSponsored">
-    <label for="hideSponsored">Hide Sponsored Results</label>
-</div>
+    <button id="saveSettings">Save</button>
 
-<button id="saveSettings">Save</button>
-
-<div class="section">
-    <a id="buy-coffee" href="https://www.buymeacoffee.com/akassama" target="_blank">
+    <div class="section">
+      <a
+        id="buy-coffee"
+        href="https://www.buymeacoffee.com/akassama"
+        target="_blank"
+      >
         Buy me a coffee <i class="ri-cup-line"></i>
-    </a>
-    <p>If you find this extension helpful, I would appreciate your support!</p>
-</div>
+      </a>
+      <p>
+        If you find this extension helpful, I would appreciate your support!
+      </p>
+    </div>
 
-<div class="section support-info">
-    <p><a href="https://forms.gle/zS9NmAoqoJ2xc35j6" target="_blank">Something wrong or missing?</a></p>
-</div>
+    <div class="section support-info">
+      <p>
+        <a href="https://forms.gle/zS9NmAoqoJ2xc35j6" target="_blank"
+          >Something wrong or missing?</a
+        >
+      </p>
+    </div>
 
-<script src="popup.js"></script>
-</body>
+    <script src="popup.js"></script>
+  </body>
 </html>

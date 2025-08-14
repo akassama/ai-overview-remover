@@ -1,5 +1,4 @@
-
-# AI Overview Blocker
+# AI Overview Remover
 
 **A simple and effective Chrome extension to hide AI Overviews, AI Mode, and sponsored results from Google search pages, giving you a cleaner, more traditional search experience..**
 
@@ -23,7 +22,7 @@
 
 #### 1. Chrome Web Store
 
-Install [Chrome Web Store](https://chromewebstore.google.com/detail/ai-overview-blocker/lchpdclncckbgndfbodbhncjcfgdimpj)
+Install [Chrome Web Store](https://chromewebstore.google.com/detail/ai-overview-remover/lchpdclncckbgndfbodbhncjcfgdimpj)
 
 #### 2. Load Unpacked
 
@@ -33,12 +32,11 @@ Install [Chrome Web Store](https://chromewebstore.google.com/detail/ai-overview-
 4. **Load Unpacked**: Click the "Load unpacked" button.
 5. **Select Folder**: Choose the folder where you saved the extension files.
 
-The "AI Overview Blocker" icon should now appear in your browser's toolbar.
+The "AI Overview Remover" icon should now appear in your browser's toolbar.
 
 ### ⚙️ Usage
 
 Click the extension icon in your toolbar to open the popup menu. From there, you can toggle which elements you want to hide. The settings will save automatically.
-
 
 ### 💬 Feedback & Contributions
 
