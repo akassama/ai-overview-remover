@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "AI Overview Blocker",
+  "name": "AI Overview Remover",
   "version": "1.0",
   "description": "Automatically removes Google's AI Overview section from search results.",
   "permissions": ["scripting", "storage"],
