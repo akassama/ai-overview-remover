@@ -22,7 +22,7 @@
 
 #### 1. Chrome Web Store
 
-Install [Chrome Web Store](https://chromewebstore.google.com/detail/ai-overview-remover/lchpdclncckbgndfbodbhncjcfgdimpj)
+Install [Chrome Web Store](https://chromewebstore.google.com/detail/ai-overview-remover/hgjbjafhomnckbldadnfhaldcdacgehn?hl=en)
 
 #### 2. Load Unpacked
 
